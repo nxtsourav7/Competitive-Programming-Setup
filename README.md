@@ -55,5 +55,5 @@ To set up your environment for competitive programming, ensure you have the foll
 
 For any questions or feedback, please contact.
 
-<a href="https://fb.com/nxtsourav7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nxtsourav7" height="30" width="40" /></a>
+<a href="https://fb.com/nxtsourav7" target="blank"><img align="center" src="src/images/facebook.svg" alt="nxtsourav7" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nxtsourav7" target="blank"><img align="center" src="src/images/codeforces.svg" alt="nxtsourav7" height="30" width="40" /></a>
