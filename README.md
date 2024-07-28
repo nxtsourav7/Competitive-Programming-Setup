@@ -51,8 +51,8 @@ To set up your environment for competitive programming, ensure you have the foll
 3. **Customize Preferences**: Adjust editor preferences for optimal coding efficiency, such as enabling line numbers, syntax highlighting, and auto-completion.
 4. **Set Up Templates**: Create code templates for quick access during competitions.
 
-## Usage
+## Contact
 
-1. **Open the repository**:
-   ```bash
-   cd Competitive-Programming-Setup
+For any questions or feedback, please contact.
+- [Email](nxtsourav7@gmail.com)
+- [Facebook](www.facebook.com/nxtsourav7)
