@@ -5,7 +5,7 @@ Welcome to the Competitive Programming Setup repository! This guide will help yo
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Install Prerequisites]()
+- [Prerequisites](#prerequisites)
 - [Setting up VS Code](#setting-up-vs-code)
 - [Setting up Geany](#setting-up-geany)
 - [Usage](#usage)
@@ -18,7 +18,7 @@ Welcome to the Competitive Programming Setup repository! This guide will help yo
 
 Competitive programming is a challenging and rewarding activity that involves solving algorithmic problems within a set timeframe. To maximize efficiency, having a well-configured development environment is crucial. This repository provides a comprehensive setup for VS Code and Geany, two popular code editors among competitive programmers. Follow the instructions below to configure your setup and get started with competitive programming.
 
-## Installation Prerequisites
+## Prerequisites
 
 To set up your environment for competitive programming, ensure you have the following prerequisites installed as per your operating system:
 ### Windows
