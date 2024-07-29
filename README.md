@@ -38,7 +38,18 @@ To set up your environment for competitive programming, ensure you have the foll
 1. **Install Visual Studio Code**: Download and install VS Code from the [official website](https://code.visualstudio.com/).
 2. **Install Extensions**: Enhance your coding experience with the following extensions:
    - **C/C++**: Provides IntelliSense, debugging, and code browsing.
-   - **Competitive Programming Helper**: Simplifies competitive programming tasks.
+   - **Competitive Programming Helper (cph)**: Quickly compile, run and judge competitive programming problems in VS Code. Automatically download testcases , or write & test your own problems. Once you are done, easily submit your solutions directly with the click of a button!
+        - **CPH Config**
+            1. Install cph in VS Code and open any folder.
+            2. [Install competitive companion](https://github.com/jmerle/competitive-companion#readme) in your browser.
+            3. Use Companion by pressing the green plus (+) circle from the browser toolbar when visiting any problem page.
+            4. The file opens in VS Code with testcases preloaded. Press Ctrl+Alt+B to run them.
+            5. Install the [cph-submit](https://github.com/agrawal-d/cph-submit) browser extension to enable submitting directly on CodeForces.
+            6. Add this two lines in your vs code **setting.json** file
+                ```
+                "cph.language.cpp.SubmissionCompiler": "GNU G++20 13.2 (64 bit, winlibs)",
+                "cph.general.defaultLanguage": "cpp",
+                ```
    - **Code Runner**: Allows you to run code and execute custom command easily.
 3. **Set Up Coding Templates**: Create templates for different programming languages to quickly start coding during contests.
 
