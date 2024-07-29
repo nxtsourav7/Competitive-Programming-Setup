@@ -45,7 +45,7 @@ To set up your environment for competitive programming, ensure you have the foll
             3. Use Companion by pressing the green plus (+) circle from the browser toolbar when visiting any problem page.
             4. The file opens in VS Code with testcases preloaded. Press Ctrl+Alt+B to run them.
             5. Install the [cph-submit](https://github.com/agrawal-d/cph-submit) browser extension to enable submitting directly on CodeForces.
-            6. Add this two lines in your vs code **setting.json** file
+            6. (optional) Add this two lines in your vs code **setting.json** file (if you use c++).
                 ```
                 "cph.language.cpp.SubmissionCompiler": "GNU G++20 13.2 (64 bit, winlibs)",
                 "cph.general.defaultLanguage": "cpp",
