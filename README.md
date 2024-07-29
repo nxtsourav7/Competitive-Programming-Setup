@@ -51,8 +51,20 @@ To set up your environment for competitive programming, ensure you have the foll
                 "cph.general.defaultLanguage": "cpp",
                 ```
    - **Code Runner**: Allows you to run code and execute custom command easily.
-3. **Set Up Coding Templates**: Create templates for different programming languages to quickly start coding during contests.
+3. **Set Up User Snippets**: A user snippet typically refers to a piece of code or text that users can insert into a larger codebase or document to accomplish a specific task or function. These snippets are often used to save time, ensure consistency, and reduce errors by reusing commonly used code or text. They can be manually created by users or provided by integrated development environments (IDEs) and text editors to facilitate coding and writing.
+    - **Set Up**
+        1. Write your desired code. 
+        2. Copy and Paste it into [Snippet-Generator](https://snippet-generator.app/) website.
+        3. Copy your generated snippet and back to VS Code.
+        4. Click lower-left corner gear icon.
+        5. Then User Spnippets -> cpp (or your used language).
+        6. Paste your user generated snippet.
 
+    **N.B: This is my [User Snippet]()**
+    
+    If you faced any problem then watch this [YouTube Video](https://www.youtube.com/watch?v=uqBgvO5DAUc)
+4. **Keybindings** (Optional): A keybinding (or key binding) is a specific key or combination of keys on a keyboard that is mapped to perform a particular action within software. Keybindings are used to create shortcuts that can enhance productivity and efficiency by allowing users to quickly execute commands without navigating through menus or using a mouse. These shortcuts can often be customized to suit individual preferences or workflow needs.
+    
 ## Setting up Geany
 
 1. **Install Geany**: Download and install Geany from the [official website](https://www.geany.org/).
