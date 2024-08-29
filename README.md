@@ -57,7 +57,7 @@ To set up your environment for competitive programming, ensure you have the foll
         2. Copy and Paste it into [Snippet-Generator](https://snippet-generator.app/) website.
         3. Copy your generated snippet and back to VS Code.
         4. Click lower-left corner gear icon.
-        5. Then User Spnippets -> cpp (or your used language).
+        5. Then Spnippets -> cpp (or your used language).
         6. Paste your user generated snippet.
 
 
