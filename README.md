@@ -66,7 +66,7 @@ To set up your environment for competitive programming, ensure you have the foll
        **N.B: This is my [User Snippet](https://github.com/nxtsourav7/Compitative-Programming-Setup/blob/main/VS-Code/User-Snippets/cpp.json)(C++). Just Copy Paste. Type *ff* to trigger code templete.**
 5. **Keybindings** (Optional): A keybinding (or key binding) is a specific key or combination of keys on a keyboard that is mapped to perform a particular action within software. Keybindings are used to create shortcuts that can enhance productivity and efficiency by allowing users to quickly execute commands without navigating through menus or using a mouse. These shortcuts can often be customized to suit individual preferences or workflow needs.
     
-## Setting up Geany
+## Setting up Geany (Optional)
 
 1. **Install Geany**: Download and install Geany from the [official website](https://www.geany.org/).
 2. **Configure Build Commands**:
