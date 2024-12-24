@@ -123,7 +123,7 @@
     "input 2D vector": {
         "prefix": "2d_input",
         "body": [
-          "for (auto &row : ${1:arr}) {",
+          "for (auto &row : ${1:A}) {",
           " for (auto &it : row) {cin >> it;}",
             "}${0}",
         ],
@@ -132,14 +132,14 @@
     "declear 2D vector": {
         "prefix": "v2d",
         "body": [
-            "vector<vector<${1:int}>> ${2:arr}(${3:n}, vector<${1:int}>(${4:m}, ${5:0}));${0}"
+            "vector<vector<${1:int}>> ${2:A}(${3:n}, vector<${1:int}>(${4:m}, ${5:0}));${0}"
         ],
         "description": ""
     },
     "input 1D vector": {
         "prefix": "1d_input",
         "body": [
-          "for(auto &it : ${1:arr}) {cin >> it;}${0}"
+          "for(auto &x : ${1:A}) {cin >> x;}${0}"
         ],
         "description": ""
     },
@@ -170,6 +170,7 @@
     "    int T = Q? (cin >> T, T) : 1;",
     "    test(T) {",
     "        solve();",
+    "        cout << endl;",
     "    }",
     "    ",
     "    return 0;",
